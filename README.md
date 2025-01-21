@@ -65,5 +65,8 @@ Various assorted games that can be played in non-typical formats. They will be s
 ### [Killed By A Pixel](https://frankforce.com/)
 - [TinySki](https://github.com/KilledByAPixel/TinySki)
 
+### [ChrisK847](https://github.com/ChrisK847)
+- [I programmed the game Minesweeper in Powershell (for Windows). This will be a tutorial of the game.](https://www.youtube.com/watch?v=KAs0VBypUWw)/[Github](https://github.com/ChrisK847)
+- 
 # See also
 - [GamesOnPDF](https://github.com/rarelygoeshere/GamesOnPDF)
