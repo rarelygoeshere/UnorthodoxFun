@@ -59,5 +59,8 @@ Various assorted games that can be played in non-typical formats. They will be s
 - [quinesnake](https://github.com/taylorconor/quinesnake)
 - [tinytetris](https://github.com/taylorconor/tinytetris)
 
+### [nickmpaz](https://github.com/nickmpaz)
+- [Tiny Tetris](https://github.com/nickmpaz/tiny-tetris)
+
 # See also
 - [GamesOnPDF](https://github.com/rarelygoeshere/GamesOnPDF)
