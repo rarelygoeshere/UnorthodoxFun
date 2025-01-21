@@ -36,5 +36,8 @@ Various assorted games that can be played in non-typical formats. They will be s
 ### [ading2210](https://github.com/ading2210)
 - [CLI Snake](https://replit.com/@UniqueOstrich18/CLI-Snake)/[Github](https://github.com/ading2210/snake-cli)
 
+### argo.larrys.tech
+- [PDF Snake - Snake](https://argo.larrys.tech/snake_resume.pdf) Published on January 2025
+
 # See also
 - [GamesOnPDF](https://github.com/rarelygoeshere/GamesOnPDF)
