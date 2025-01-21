@@ -41,7 +41,7 @@ Various assorted games that can be played in non-typical formats. They will be s
 
 ### [Lucas-C](https://lucas-c.itch.io/)
 - [Undying Dusk](https://lucas-c.itch.io/undying-dusk)/[Github](https://github.com/Lucas-C/undying-dusk) Published on April 24, 2021
-- 
+
 ### [fae.exe](https://faeexe.itch.io/)
 - [Alone on Rivers Red](https://faeexe.itch.io/alone-on-rivers-red) Published on January 31, 2022
 
