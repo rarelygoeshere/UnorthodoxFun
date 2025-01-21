@@ -18,6 +18,7 @@ Any and all instances of DOOM ports. DOOM merits its own section as there are nu
 
 ### [ThomasRinsma](https://github.com/ThomasRinsma)
 - [PDF Doom](https://github.com/ThomasRinsma/pdfdoom) Published on January 12, 2025; Only works in PDFium (PDF viewer in Chromium-based browsers) for now.
+
 ## Everything else
 Various assorted games that can be played in non-typical formats. They will be sorted below a sub-heading denoting the creator's official name. If it is a game port, and the name of the original link isn't self-evident, then the name of the game will be added to the entry.
 ### [osnr](https://github.com/osnr)
@@ -53,6 +54,10 @@ Various assorted games that can be played in non-typical formats. They will be s
 - [Chicken Wants to Cross the River](https://vsioneithr.itch.io/chicken-wants-to-cross-the-river) Published on April 14, 2016
 - [Journey to the Dragon's Stomach](https://vsioneithr.itch.io/journey-to-the-dragons-stomach) Published on April 13, 2016
 - [Frog's Adventure to Home](https://vsioneithr.itch.io/frogs-adventure-to-home) Published on April 12, 2016
+
+### [taylorconor](https://github.com/taylorconor)
+- [quinesnake](https://github.com/taylorconor/quinesnake)
+- [tinytetris](https://github.com/taylorconor/tinytetris)
 
 # See also
 - [GamesOnPDF](https://github.com/rarelygoeshere/GamesOnPDF)
