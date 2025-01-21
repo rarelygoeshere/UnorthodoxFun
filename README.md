@@ -39,5 +39,11 @@ Various assorted games that can be played in non-typical formats. They will be s
 ### argo.larrys.tech
 - [PDF Snake - Snake](https://argo.larrys.tech/snake_resume.pdf) Published on January 2025
 
+### [Lucas-C](https://lucas-c.itch.io/)
+- [Undying Dusk](https://lucas-c.itch.io/undying-dusk)/[Github](https://github.com/Lucas-C/undying-dusk) Published on April 24, 2021
+- 
+### [fae.exe](https://faeexe.itch.io/)
+- [Alone on Rivers Red](https://faeexe.itch.io/alone-on-rivers-red) Published on January 31, 2022
+
 # See also
 - [GamesOnPDF](https://github.com/rarelygoeshere/GamesOnPDF)
