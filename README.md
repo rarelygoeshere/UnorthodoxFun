@@ -16,3 +16,6 @@ Any and all instances of DOOM ports. DOOM merits its own section as there are nu
 
 ## Everything else
 Various assorted games that can be played in non-typical formats. If there is more than one instance of the same game, they will be sorted below a sub-heading denoting the game's official name.
+
+# See also
+- [GamesOnPDF](https://github.com/rarelygoeshere/GamesOnPDF)
