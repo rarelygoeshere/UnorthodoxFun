@@ -62,5 +62,8 @@ Various assorted games that can be played in non-typical formats. They will be s
 ### [nickmpaz](https://github.com/nickmpaz)
 - [Tiny Tetris](https://github.com/nickmpaz/tiny-tetris)
 
+### [Killed By A Pixel](https://frankforce.com/)
+- [TinySki](https://github.com/KilledByAPixel/TinySki)
+
 # See also
 - [GamesOnPDF](https://github.com/rarelygoeshere/GamesOnPDF)
