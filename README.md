@@ -20,6 +20,8 @@ Any and all instances of DOOM ports. DOOM merits its own section as there are nu
 - [PDF Doom](https://github.com/ThomasRinsma/pdfdoom) Published on January 12, 2025; Only works in PDFium (PDF viewer in Chromium-based browsers) for now.
 ## Everything else
 Various assorted games that can be played in non-typical formats. They will be sorted below a sub-heading denoting the creator's official name. If it is a game port, and the name of the original link isn't self-evident, then the name of the game will be added to the entry.
+### [osnr](https://github.com/osnr)
+- [horrifying-pdf-experiments - Breakout](https://cdn.jsdelivr.net/gh/osnr/horrifying-pdf-experiments@master/breakout.pdf)/[Github](https://github.com/osnr/horrifying-pdf-experiments) Published on June 27, 2016; Only works on Chromium-based browsers
 
 ### [ThomasRinsma](https://github.com/ThomasRinsma)
 - [pdftris - Tetris](https://th0mas.nl/2025/01/12/tetris-in-a-pdf/)/[Github](https://github.com/ThomasRinsma/pdftris) Published on January 5, 2025
