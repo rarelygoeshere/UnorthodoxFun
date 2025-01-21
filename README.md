@@ -16,8 +16,14 @@ Any and all instances of DOOM ports. DOOM merits its own section as there are nu
 ### [ading2210](https://github.com/ading2210)
 - [DoomPDF - Doom](https://doompdf.pages.dev/doom.pdf)/[Github](https://github.com/ading2210/doompdf) Published on February 1, 2012; Only works on Chromium-based browsers
 
+### [ThomasRinsma](https://github.com/ThomasRinsma)
+- [PDF Doom](https://github.com/ThomasRinsma/pdfdoom) Published on January 12, 2025; Only works in PDFium (PDF viewer in Chromium-based browsers) for now.
 ## Everything else
-Various assorted games that can be played in non-typical formats. They will be sorted below a sub-heading denoting the creator's official name. If it is a game port, and the name of the original link isn't self-evident, then the name of the game will be added to the entry.  
+Various assorted games that can be played in non-typical formats. They will be sorted below a sub-heading denoting the creator's official name. If it is a game port, and the name of the original link isn't self-evident, then the name of the game will be added to the entry.
+
+### [ThomasRinsma](https://github.com/ThomasRinsma)
+- [pdftris - Tetris](https://th0mas.nl/2025/01/12/tetris-in-a-pdf/)/[Github](https://github.com/ThomasRinsma/pdftris) Published on January 5, 2025
+
 ### [mwenge](https://github.com/mwenge)
 - [Iridis Alpha Theory - Iridis Alpha](https://iridisalpha.com/)/[Github](https://github.com/mwenge/iatheory/releases/tag/0.1)
 
