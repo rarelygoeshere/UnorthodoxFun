@@ -48,5 +48,11 @@ Various assorted games that can be played in non-typical formats. They will be s
 ### [Liambronjames](https://liambronjames.itch.io/)
 - [turn based combat pdf game](https://liambronjames.itch.io/turn-based-combat-pdf-game) Published on July 08, 2024
 
+### [Vsio NeithR](https://vsioneithr.itch.io/)
+- [My Last Sandwich](https://vsioneithr.itch.io/my-last-sandwich) Published on April 15, 2016
+- [Chicken Wants to Cross the River](https://vsioneithr.itch.io/chicken-wants-to-cross-the-river) Published on April 14, 2016
+- [Journey to the Dragon's Stomach](https://vsioneithr.itch.io/journey-to-the-dragons-stomach) Published on April 13, 2016
+- [Frog's Adventure to Home](https://vsioneithr.itch.io/frogs-adventure-to-home) Published on April 12, 2016
+
 # See also
 - [GamesOnPDF](https://github.com/rarelygoeshere/GamesOnPDF)
