@@ -13,6 +13,8 @@ Any and all instances of DOOM ports. DOOM merits its own section as there are nu
 - [DOOM-audio](https://github.com/wojciech-graj/doom-audio) Doom playable over an audio connection / Published on May 11, 2023
 - [cyDoomGeneric](https://github.com/wojciech-graj/cydoomgeneric) Easily portable DooM for Python (Pyplot, Libreoffice Calc, Minecraft: Pi Edition, MS Paint, Pygame) / Published on February 13, 2023
 - [DOOM-ASCII](https://github.com/wojciech-graj/doom-ascii) Text-based DOOM in your terminal / Published on March 9, 2022
+### [ading2210](https://github.com/ading2210)
+- [DoomPDF - Doom](https://doompdf.pages.dev/doom.pdf)/[Github](https://github.com/ading2210/doompdf) Published on February 1, 2012; Only works on Chromium-based browsers
 
 ## Everything else
 Various assorted games that can be played in non-typical formats. They will be sorted below a sub-heading denoting the creator's official name. If it is a game port, and the name of the original link isn't self-evident, then the name of the game will be added to the entry.  
@@ -22,5 +24,9 @@ Various assorted games that can be played in non-typical formats. They will be s
 ### [GamesExcel](https://www.youtube.com/@GamesExcel)/[Download link to all the games](https://www.4shared.com/folder/NS-0aPDf/_online.html)/[MEGA Mirror](https://www.4shared.com/folder/NS-0aPDf/_online.html)
 - [Excel Space Wars (R-type clone)](https://www.youtube.com/watch?v=gUu6rDMWTHQ) Published on September 24, 2013
 - [Legend of Zelda in Microsoft Excel - Legend of Zelda Link's Awakening](https://www.youtube.com/watch?v=GzC2K-kn31o) Published on March 27, 2013
+
+### [ading2210](https://github.com/ading2210)
+- [CLI Snake](https://replit.com/@UniqueOstrich18/CLI-Snake)/[Github](https://github.com/ading2210/snake-cli)
+
 # See also
 - [GamesOnPDF](https://github.com/rarelygoeshere/GamesOnPDF)
