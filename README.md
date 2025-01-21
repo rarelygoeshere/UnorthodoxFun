@@ -45,5 +45,8 @@ Various assorted games that can be played in non-typical formats. They will be s
 ### [fae.exe](https://faeexe.itch.io/)
 - [Alone on Rivers Red](https://faeexe.itch.io/alone-on-rivers-red) Published on January 31, 2022
 
+### [Liambronjames](https://liambronjames.itch.io/)
+- [turn based combat pdf game](https://liambronjames.itch.io/turn-based-combat-pdf-game) Published on July 08, 2024
+
 # See also
 - [GamesOnPDF](https://github.com/rarelygoeshere/GamesOnPDF)
