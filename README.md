@@ -16,6 +16,8 @@ Any and all instances of DOOM ports. DOOM merits its own section as there are nu
 
 ## Everything else
 Various assorted games that can be played in non-typical formats. They will be sorted below a sub-heading denoting the creator's official name. If it is a game port, and the name of the original link isn't self-evident, then the name of the game will be added to the entry.  
+### [mwenge](https://github.com/mwenge)
+- [Iridis Alpha Theory - Iridis Alpha](https://iridisalpha.com/)/[Github](https://github.com/mwenge/iatheory/releases/tag/0.1)
 
 ### [GamesExcel](https://www.youtube.com/@GamesExcel)/[Download link to all the games](https://www.4shared.com/folder/NS-0aPDf/_online.html)/[MEGA Mirror](https://www.4shared.com/folder/NS-0aPDf/_online.html)
 - [Excel Space Wars (R-type clone)](https://www.youtube.com/watch?v=gUu6rDMWTHQ) Published on September 24, 2013
