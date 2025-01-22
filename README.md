@@ -25,6 +25,13 @@ Any and all instances of DOOM ports. DOOM merits its own section as there are nu
 - [doom-htop](https://github.com/0x0mer/doom-htop) The classic DOOM game over htop, the text-based process viewer; Published on February 1, 2012
 ### Husqvarna
 - [Doom on Husqvarna Automower](https://www.youtube.com/watch?v=lp3X4IL4_UA)/[Article](https://www.tomshardware.com/video-games/doom-comes-to-lawnmowers) Published on April 2024
+
+### [FrenkelS](https://github.com/FrenkelS)
+- [ELKSDOOM](https://github.com/FrenkelS/elksdoom) DOOM for ELKS; Published on August 29, 2024
+- [doomtd3](https://github.com/FrenkelS/doomtd3)  Stripped down version of Doom (Doom8088) for only running timedemo 3; Published on August 28, 2023
+- [Doom8088](https://github.com/FrenkelS/Doom8088) Published on August 28, 2023
+- [GBADoom for DOS](https://github.com/FrenkelS/GBADoomForDOS) Published on August 1, 2023
+- [FastDoom](https://www.youtube.com/watch?v=qizwu6dozvc)/[Github](https://github.com/FrenkelS/FastDoom) Doom port for DOS, based on PCDoom by @nukeykt; Published on April 30, 2020
 ## Everything else
 Various assorted games that can be played in non-typical formats. They will be sorted below a sub-heading denoting the creator's official name. If it is a game port, and the name of the original link isn't self-evident, then the name of the game will be added to the entry.
 ### [osnr](https://github.com/osnr)
