@@ -56,7 +56,8 @@ Any and all instances of DOOM ports. DOOM merits its own section as there are nu
 ### [Josh Max](https://blog.joshumax.me/)
 - [Running DOOM on a Hacked CaptionCall Landline](https://x.com/joshumax/status/1425644518636867586)/[Blogpost](https://blog.joshumax.me/general/2021/08/11/running-doom-on-captioncall.html)/[Github](https://github.com/joshumax/dumping-ground/tree/master/bonanza_hacks) Published on August 11, 2021
 
-
+### [Bakutendo](https://bakutendo.net/) 
+- [Custom Raspberry Pi PCB Lets You Play Doom on an NES](https://www.youtube.com/watch?v=VqFfyOqP-tY)/[Blogpost](https://bakutendo.net/blog-entry-421.html)/[Article](https://www.tomshardware.com/news/custom-raspberry-pi-pcb-lets-you-play-doom-on-an-nes) Published on September 25, 2020
 ## Everything else
 Various assorted games that can be played in non-typical formats. They will be sorted below a sub-heading denoting the creator's official name. If it is a game port, and the name of the original link isn't self-evident, then the name of the game will be added to the entry.
 ### [osnr](https://github.com/osnr)
