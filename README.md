@@ -28,14 +28,14 @@ Various assorted games that can be played in non-typical formats. They will be s
 - [pdftris - Tetris](https://th0mas.nl/2025/01/12/tetris-in-a-pdf/)/[Github](https://github.com/ThomasRinsma/pdftris) Published on January 5, 2025
 
 ### [mwenge](https://github.com/mwenge)
-- [Iridis Alpha Theory - Iridis Alpha](https://iridisalpha.com/)/[Github](https://github.com/mwenge/iatheory/releases/tag/0.1)
+- [Iridis Alpha Theory - Iridis Alpha](https://iridisalpha.com/)/[Github](https://github.com/mwenge/iatheory/releases/tag/0.1) Published on February 17, 2022
 
 ### [GamesExcel](https://www.youtube.com/@GamesExcel)/[Download link to all the games](https://www.4shared.com/folder/NS-0aPDf/_online.html)/[MEGA Mirror](https://www.4shared.com/folder/NS-0aPDf/_online.html)
 - [Excel Space Wars (R-type clone)](https://www.youtube.com/watch?v=gUu6rDMWTHQ) Published on September 24, 2013
 - [Legend of Zelda in Microsoft Excel - Legend of Zelda Link's Awakening](https://www.youtube.com/watch?v=GzC2K-kn31o) Published on March 27, 2013
 
 ### [ading2210](https://github.com/ading2210)
-- [CLI Snake](https://replit.com/@UniqueOstrich18/CLI-Snake)/[Github](https://github.com/ading2210/snake-cli)
+- [CLI Snake](https://replit.com/@UniqueOstrich18/CLI-Snake)/[Github](https://github.com/ading2210/snake-cli) Published on June 4, 2021
 
 ### argo.larrys.tech
 - [PDF Snake - Snake](https://argo.larrys.tech/snake_resume.pdf) Published on January 2025
@@ -56,17 +56,18 @@ Various assorted games that can be played in non-typical formats. They will be s
 - [Frog's Adventure to Home](https://vsioneithr.itch.io/frogs-adventure-to-home) Published on April 12, 2016
 
 ### [taylorconor](https://github.com/taylorconor)
-- [quinesnake](https://github.com/taylorconor/quinesnake)
-- [tinytetris](https://github.com/taylorconor/tinytetris)
+- [quinesnake](https://github.com/taylorconor/quinesnake) Published on April 26, 2019
+- [tinytetris](https://github.com/taylorconor/tinytetris) Published on March 31, 2019
 
 ### [nickmpaz](https://github.com/nickmpaz)
-- [Tiny Tetris](https://github.com/nickmpaz/tiny-tetris)
+- [Tiny Tetris](https://github.com/nickmpaz/tiny-tetris) Published on June 2, 2019
 
 ### [Killed By A Pixel](https://frankforce.com/)
-- [TinySki](https://github.com/KilledByAPixel/TinySki)
+- [TinySki](https://github.com/KilledByAPixel/TinySki) Published on April 1, 2019
 
 ### [ChrisK847](https://github.com/ChrisK847)
-- [I programmed the game Minesweeper in Powershell (for Windows). This will be a tutorial of the game.](https://www.youtube.com/watch?v=KAs0VBypUWw)/[Github](https://github.com/ChrisK847)
-- 
+- [Cat_And_Mouse](https://www.youtube.com/watch?v=sv3atGfTRRU)/[Github](https://github.com/ChrisK847/Cat_and_Mouse) Published on November 6, 2021
+- [I programmed the game Minesweeper in Powershell (for Windows). This will be a tutorial of the game.](https://www.youtube.com/watch?v=KAs0VBypUWw)/[Github](https://github.com/ChrisK847/Minesweeper) Published on September 6, 2020
+
 # See also
 - [GamesOnPDF](https://github.com/rarelygoeshere/GamesOnPDF)
