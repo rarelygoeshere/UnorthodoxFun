@@ -69,5 +69,7 @@ Various assorted games that can be played in non-typical formats. They will be s
 - [Cat_And_Mouse](https://www.youtube.com/watch?v=sv3atGfTRRU)/[Github](https://github.com/ChrisK847/Cat_and_Mouse) Published on November 6, 2021
 - [I programmed the game Minesweeper in Powershell (for Windows). This will be a tutorial of the game.](https://www.youtube.com/watch?v=KAs0VBypUWw)/[Github](https://github.com/ChrisK847/Minesweeper) Published on September 6, 2020
 
+### [Søren Trautner Madsen](https://www.youtube.com/@STrautner)
+- [LIMBO 64](https://www.youtube.com/watch?v=hsUUn6mV6qQ)/[Download link 1](https://www.protovision.games/games/limbo.php?language=en)/[2](https://csdb.dk/release/index.php?id=170889) Published on November 3, 2018
 # See also
 - [GamesOnPDF](https://github.com/rarelygoeshere/GamesOnPDF)
