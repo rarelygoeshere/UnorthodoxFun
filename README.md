@@ -82,6 +82,9 @@ Various assorted games that can be played in non-typical formats. They will be s
 - [Super Template Tetris](https://github.com/mattbierner/Super-Template-Tetris) Published on June 10, 2015
 - [Compile Time C++ Snake Game](https://github.com/mattbierner/STT-C-Compile-Time-Snake) Published on January 18, 2015
 
+### [AlejandroNQ](https://github.com/AlejandroNQ)
+- [SNAKE.pdf](https://github.com/AlejandroNQ/SNAKE.pdf) Published on January 4, 2021
+
 # Sources
 A list of sources I visited to obtain the content for this repo. It is not an exhaustive list.
 - [This old thread on Resetera](https://www.resetera.com/threads/unconventional-unique-gaming-creations.22155/)
