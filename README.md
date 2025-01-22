@@ -52,6 +52,11 @@ Any and all instances of DOOM ports. DOOM merits its own section as there are nu
 
 ### [Sam Chiet](https://x.com/intent/user?user_id=2251209650)
 - [NotepadDOOM](https://www.youtube.com/watch?v=a3VoEyaqMoc)/[Tweet](https://x.com/SamNChiet/status/1579140903150964736)/[Article](https://www.tomshardware.com/news/doom-runs-at-60-fps-in-notepad) Published on October 9, 2022
+
+### [Josh Max](https://blog.joshumax.me/)
+- [Running DOOM on a Hacked CaptionCall Landline](https://x.com/joshumax/status/1425644518636867586)/[Blogpost](https://blog.joshumax.me/general/2021/08/11/running-doom-on-captioncall.html)/[Github](https://github.com/joshumax/dumping-ground/tree/master/bonanza_hacks) Published on August 11, 2021
+
+
 ## Everything else
 Various assorted games that can be played in non-typical formats. They will be sorted below a sub-heading denoting the creator's official name. If it is a game port, and the name of the original link isn't self-evident, then the name of the game will be added to the entry.
 ### [osnr](https://github.com/osnr)
