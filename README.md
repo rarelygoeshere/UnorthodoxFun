@@ -66,7 +66,7 @@ Any and all instances of DOOM ports. DOOM merits its own section as there are nu
 - [Pregnancy Test Doom](https://x.com/Foone/status/1302820468819288066) Published on September 7, 2020
 
 ### [Nicholas Chin](https://github.com/nic3-14159)
-- [coreDOOM](https://github.com/nic3-14159/coreDOOM) Doom ported to a Coreboot BIOS; Published on August 5, 2019
+- [coreDOOM](https://github.com/nic3-14159/coreDOOM)/[Article](https://www.tomshardware.com/news/doom-port-released-as-bios-payload) Doom ported to a Coreboot BIOS; Published on August 5, 2019
 ## Everything else
 Various assorted games that can be played in non-typical formats. They will be sorted below a sub-heading denoting the creator's official name. If it is a game port, and the name of the original link isn't self-evident, then the name of the game will be added to the entry.
 ### [osnr](https://github.com/osnr)
