@@ -19,6 +19,8 @@ Any and all instances of DOOM ports. DOOM merits its own section as there are nu
 ### [ThomasRinsma](https://github.com/ThomasRinsma)
 - [PDF Doom](https://github.com/ThomasRinsma/pdfdoom) Published on January 12, 2025; Only works in PDFium (PDF viewer in Chromium-based browsers) for now.
 
+### [0x0mer](https://github.com/0x0mer)
+- [doom-htop](https://github.com/0x0mer/doom-htop) The classic DOOM game over htop, the text-based process viewer; Published on February 1, 2012
 ## Everything else
 Various assorted games that can be played in non-typical formats. They will be sorted below a sub-heading denoting the creator's official name. If it is a game port, and the name of the original link isn't self-evident, then the name of the game will be added to the entry.
 ### [osnr](https://github.com/osnr)
