@@ -32,6 +32,9 @@ Any and all instances of DOOM ports. DOOM merits its own section as there are nu
 - [Doom8088](https://github.com/FrenkelS/Doom8088) Published on August 28, 2023
 - [GBADoom for DOS](https://github.com/FrenkelS/GBADoomForDOS) Published on August 1, 2023
 - [FastDoom](https://www.youtube.com/watch?v=qizwu6dozvc)/[Github](https://github.com/FrenkelS/FastDoom) Doom port for DOS, based on PCDoom by @nukeykt; Published on April 30, 2020
+### [lukneu](https://github.com/lukneu)
+- [doom-teletext](https://www.youtube.com/watch?v=rIgQV4ClmQ0)/[Github](https://github.com/lukneu/doom-teletext) Play DOOM in Teletext; Published on February 1, 2012
+
 ## Everything else
 Various assorted games that can be played in non-typical formats. They will be sorted below a sub-heading denoting the creator's official name. If it is a game port, and the name of the original link isn't self-evident, then the name of the game will be added to the entry.
 ### [osnr](https://github.com/osnr)
