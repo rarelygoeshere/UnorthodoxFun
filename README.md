@@ -39,6 +39,10 @@ Any and all instances of DOOM ports. DOOM merits its own section as there are nu
 - [How I Built A Mini, Pi-Powered Air Hockey Table With A Hint of DOOM](https://www.youtube.com/watch?v=q2_lNJKP2l0) Raspberry Pi air hockey table that can play DOOM; Published on December 24, 2023
 ### [Bob from TheKeebProject](https://github.com/rsheldiii)
 - [The Raspberry Pi RP2040 Runs Doom on a Keycap](https://www.instagram.com/reel/CvLQPHjxgvm/)/[Github](https://github.com/rsheldiii/rp2040-doom-LCD) Fully-featured Doom port for the Raspberry Pi RP2040 microcontroller; Published on July 27, 2023
+### [kilograham](https://github.com/kilograham)
+- [RP2040 (+RP2350) Doom](https://github.com/kilograham/rp2040-doom) This is a port of Doom for RP2040 / RP2350 devices, derived from Chocolate Doom; Published on March 8, 2022
+### [Chocolate Doom](https://github.com/chocolate-doom)
+- [Chocolate Doom](https://www.chocolate-doom.org)/[Github](https://github.com/chocolate-doom/chocolate-doom) Published on September 5, 2005
 ## Everything else
 Various assorted games that can be played in non-typical formats. They will be sorted below a sub-heading denoting the creator's official name. If it is a game port, and the name of the original link isn't self-evident, then the name of the game will be added to the entry.
 ### [osnr](https://github.com/osnr)
