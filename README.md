@@ -77,5 +77,9 @@ Various assorted games that can be played in non-typical formats. They will be s
 
 ### [Joost van Dongen](https://joostdevblog.blogspot.com/)
 - [Cello Fortress](https://www.youtube.com/watch?v=J3AfvTTgiVQ)/[Gameplay](https://www.youtube.com/watch?v=J3AfvTTgiVQ)/[Developer blog link](https://joostdevblog.blogspot.com/search/label/Cello%20Fortress) A game where players team up to defeat the creator, who controls guns and other defenses on his castle by physically playing the cello; Published on September 14, 2012
+
+### [Matt Bierner](https://github.com/mattbierner)
+- [Super Template Tetris](https://github.com/mattbierner/Super-Template-Tetris) Published on June 10, 2015
+- [Compile Time C++ Snake Game](https://github.com/mattbierner/STT-C-Compile-Time-Snake) Published on January 18, 2015
 # See also
 - [GamesOnPDF](https://github.com/rarelygoeshere/GamesOnPDF)
