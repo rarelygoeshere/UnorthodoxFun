@@ -50,6 +50,8 @@ Any and all instances of DOOM ports. DOOM merits its own section as there are nu
 ### Xavier Andréani, Mrakoplaz
 - [Doom to a TI-Nspire calculator](https://www.youtube.com/watch?v=NsN2JIRGHAo)/[Download link](https://tiplanet.org/forum/archives_voir.php?id=6631)/[Article](https://hackaday.com/2012/01/19/doom-for-your-calculator-gets-a-color-upgrade/) Published on August 7, 2012
 
+### [Sam Chiet](https://x.com/intent/user?user_id=2251209650)
+- [NotepadDOOM](https://www.youtube.com/watch?v=a3VoEyaqMoc)/[Tweet](https://x.com/SamNChiet/status/1579140903150964736)/[Article](https://www.tomshardware.com/news/doom-runs-at-60-fps-in-notepad) Published on October 9, 2022
 ## Everything else
 Various assorted games that can be played in non-typical formats. They will be sorted below a sub-heading denoting the creator's official name. If it is a game port, and the name of the original link isn't self-evident, then the name of the game will be added to the entry.
 ### [osnr](https://github.com/osnr)
