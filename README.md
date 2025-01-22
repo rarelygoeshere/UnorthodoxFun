@@ -48,7 +48,7 @@ Any and all instances of DOOM ports. DOOM merits its own section as there are nu
 - [Crispy Doom](https://fabiangreffrath.github.io/crispy-homepage/)/[Github](https://github.com/fabiangreffrath/crispy-doom) Published on May 12, 2020
 
 ### Xavier Andréani, Mrakoplaz
-- [Doom to a TI-Nspire calculator](https://www.youtube.com/watch?v=NsN2JIRGHAo)/[Download link](https://tiplanet.org/forum/archives_voir.php?id=6631) Published on August 7, 2012
+- [Doom to a TI-Nspire calculator](https://www.youtube.com/watch?v=NsN2JIRGHAo)/[Download link](https://tiplanet.org/forum/archives_voir.php?id=6631)/[Article](https://hackaday.com/2012/01/19/doom-for-your-calculator-gets-a-color-upgrade/) Published on August 7, 2012
 
 ## Everything else
 Various assorted games that can be played in non-typical formats. They will be sorted below a sub-heading denoting the creator's official name. If it is a game port, and the name of the original link isn't self-evident, then the name of the game will be added to the entry.
