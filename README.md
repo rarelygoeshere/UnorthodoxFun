@@ -71,5 +71,8 @@ Various assorted games that can be played in non-typical formats. They will be s
 
 ### [Søren Trautner Madsen](https://www.youtube.com/@STrautner)
 - [LIMBO 64](https://www.youtube.com/watch?v=hsUUn6mV6qQ)/[Download link 1](https://www.protovision.games/games/limbo.php?language=en)/[2](https://csdb.dk/release/index.php?id=170889) Published on November 3, 2018
+
+### [Zach Gage](http://www.stfj.net/) 
+- [Lose/Lose](http://www.stfj.net/art/2009/loselose/) A shoot-'em-up and art video game where destroying aliens will delete files in your PC; Published on 2009
 # See also
 - [GamesOnPDF](https://github.com/rarelygoeshere/GamesOnPDF)
