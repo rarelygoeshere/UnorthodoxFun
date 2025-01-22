@@ -60,7 +60,10 @@ Any and all instances of DOOM ports. DOOM merits its own section as there are nu
 - [Custom Raspberry Pi PCB Lets You Play Doom on an NES](https://www.youtube.com/watch?v=VqFfyOqP-tY)/[Blogpost](https://bakutendo.net/blog-entry-421.html)/[Article](https://www.tomshardware.com/news/custom-raspberry-pi-pcb-lets-you-play-doom-on-an-nes) Published on September 25, 2020
 ### [Brian Benchoff](https://bbenchoff.github.io/)
 - ['Minimum Viable Computer' Can Run Doom](https://bbenchoff.github.io/pages/LinuxDevice.html)/[Article](https://www.tomshardware.com/news/minimum-viable-computer) Published on January 27, 2022
-
+- 
+### [Foone](https://wiki.foone.org//w/Main_Page)
+- [Doom in the eye of a skeleton](https://x.com/Foone/status/1450548654842941444) Published on October 20, 2021
+- [Pregnancy Test Doom](https://x.com/Foone/status/1302820468819288066) Published on September 7, 2020
 ## Everything else
 Various assorted games that can be played in non-typical formats. They will be sorted below a sub-heading denoting the creator's official name. If it is a game port, and the name of the original link isn't self-evident, then the name of the game will be added to the entry.
 ### [osnr](https://github.com/osnr)
