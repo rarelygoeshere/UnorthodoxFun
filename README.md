@@ -36,7 +36,9 @@ Any and all instances of DOOM ports. DOOM merits its own section as there are nu
 - [doom-teletext](https://www.youtube.com/watch?v=rIgQV4ClmQ0)/[Github](https://github.com/lukneu/doom-teletext) Play DOOM in Teletext; Published on February 1, 2012
 
 ### [Downing’s Basement](https://downingsbasement.com/)
-- [How I Built A Mini, Pi-Powered Air Hockey Table With A Hint of DOOM](https://www.youtube.com/watch?v=q2_lNJKP2l0)/[Github](https://github.com/rsheldiii/rp2040-doom-LCD) Raspberry Pi air hockey table that can play DOOM; Published on December 24, 2023
+- [How I Built A Mini, Pi-Powered Air Hockey Table With A Hint of DOOM](https://www.youtube.com/watch?v=q2_lNJKP2l0) Raspberry Pi air hockey table that can play DOOM; Published on December 24, 2023
+### [Bob from TheKeebProject](https://github.com/rsheldiii)
+- [The Raspberry Pi RP2040 Runs Doom on a Keycap](https://www.instagram.com/reel/CvLQPHjxgvm/)/[Github](https://github.com/rsheldiii/rp2040-doom-LCD) Fully-featured Doom port for the Raspberry Pi RP2040 microcontroller; Published on July 27, 2023
 ## Everything else
 Various assorted games that can be played in non-typical formats. They will be sorted below a sub-heading denoting the creator's official name. If it is a game port, and the name of the original link isn't self-evident, then the name of the game will be added to the entry.
 ### [osnr](https://github.com/osnr)
