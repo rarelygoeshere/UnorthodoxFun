@@ -1,5 +1,5 @@
-# UnorthodoxGames
-My repository for games implemented in unconventional formats
+# UnorthodoxFun
+An encyclopedia of games in bizarre and unconventional mediums.
 # Eligible games for this repository
 Any instances of games, whether they're original games or otherwise, that are designed or created to be playable in unusual formats. E.g DOOM's various ports over the years. If there is no primary source for the game, secondary sources like YouTube videos will be used in their place.
 # Game categories
