@@ -40,7 +40,7 @@ Any and all instances of DOOM ports. DOOM merits its own section as there are nu
 ### [Bob from TheKeebProject](https://github.com/rsheldiii)
 - [The Raspberry Pi RP2040 Runs Doom on a Keycap](https://www.instagram.com/reel/CvLQPHjxgvm/)/[Github](https://github.com/rsheldiii/rp2040-doom-LCD) Fully-featured Doom port for the Raspberry Pi RP2040 microcontroller; Published on July 27, 2023
 ### [kilograham](https://github.com/kilograham)
-- [RP2040 (+RP2350) Doom](https://github.com/kilograham/rp2040-doom) This is a port of Doom for RP2040 / RP2350 devices, derived from Chocolate Doom; Published on March 8, 2022
+- [RP2040 (+RP2350) Doom](https://github.com/kilograham/rp2040-doom)/[Blogpost](https://kilograham.github.io/rp2040-doom/)/[Youtube](https://www.youtube.com/watch?v=eDVazQVycP4) This is a port of Doom for RP2040 / RP2350 devices, derived from Chocolate Doom; Published on March 8, 2022
 ### [Chocolate Doom](https://github.com/chocolate-doom)
 - [Chocolate Doom](https://www.chocolate-doom.org)/[Github](https://github.com/chocolate-doom/chocolate-doom) Published on September 5, 2005
 
