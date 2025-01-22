@@ -133,6 +133,12 @@ Various assorted games that can be played in non-typical formats. They will be s
 ### [AlejandroNQ](https://github.com/AlejandroNQ)
 - [SNAKE.pdf](https://github.com/AlejandroNQ/SNAKE.pdf) Published on January 4, 2021
 
+### [Pokragor](https://gamejolt.com/@Pokragor)
+- [El asesinato en Windmill Hill](https://gamejolt.com/games/windmill_hill/812270) Published on June 3, 2023
+### [FlextonGamesKIDS](https://gamejolt.com/@FlextonGamesKIDS)
+- [Earth Force](https://gamejolt.com/games/Ef/510386) Published on January 7, 2021
+### [HeyItsJoeB](https://gamejolt.com/@HeyItsJoeB)
+- [Scantrons Are For The Weak!](https://gamejolt.com/games/scantrons-are-for-the-weak/132994) Published on March 14, 2016
 ### [Squeka](https://gamejolt.com/@Squeka)/[Blog](http://squeka-dev.blogspot.com/)
 - [A Boy and A Sun](http://squeka-dev.blogspot.com/2016/01/a-boy-and-a-sun.html)/[Download link](https://www.dropbox.com/scl/fi/95t6r5018b57wv5rv9k18/A-Boy-and-A-Sun.zip?rlkey=uzl4tlz2mza02rwklx1abimhj&e=1&dl=0) Published on January 5, 2016
 - [Twin Clouds of Fortune](http://squeka-dev.blogspot.com/2015/12/twin-clouds-of-fortune.html)/[Download link](https://www.dropbox.com/scl/fi/mlyzck2y2psvrvsrb2e9m/Clouds-Twin-Of-Fortune.zip?rlkey=wnh9ujjz8leasif16pdfjo8oc&e=1&dl=0) Published on December 5, 2015
@@ -157,6 +163,7 @@ Various assorted games that can be played in non-typical formats. They will be s
 - [Penguin & Nightcap](http://squeka-dev.blogspot.com/2014/03/penguin-and-nightcap.html)/[GameJolt](https://gamejolt.com/games/penguin-nightcap/24518) Published on March 29, 2014
 - [A Tale of Magical Healing Candy](http://squeka-dev.blogspot.com/2014/02/a-tale-of-magical-healing-candy.html)/[GameJolt](https://gamejolt.com/games/a-tale-of-magical-healing-candy/22129) Published on February 4, 2014
 - [Haruta's Adventure: Doors of Trap Dungeon](http://squeka-dev.blogspot.com/2014/01/harutas-adventure-doors-of-trap-dungeon.html)/[Gamejolt](https://gamejolt.com/games/haruta-s-adventure-doors-of-trap-dungeon/21670) Published on January 26, 2014
+
 
 # Sources
 A list of sources I visited to obtain the content for this repo. It is not an exhaustive list.
