@@ -74,5 +74,8 @@ Various assorted games that can be played in non-typical formats. They will be s
 
 ### [Zach Gage](http://www.stfj.net/) 
 - [Lose/Lose](http://www.stfj.net/art/2009/loselose/) A shoot-'em-up and art video game where destroying aliens will delete files in your PC; Published on 2009
+
+### [Joost van Dongen](https://joostdevblog.blogspot.com/)
+- [Cello Fortress](https://www.youtube.com/watch?v=J3AfvTTgiVQ)/[Developer blog link](https://joostdevblog.blogspot.com/search/label/Cello%20Fortress) A game where players team up to defeat the creator, who controls guns and other defenses on his castle by physically playing the cello; Published on September 14, 2012
 # See also
 - [GamesOnPDF](https://github.com/rarelygoeshere/GamesOnPDF)
