@@ -164,7 +164,8 @@ Various assorted games that can be played in non-typical formats. They will be s
 - [A Tale of Magical Healing Candy](http://squeka-dev.blogspot.com/2014/02/a-tale-of-magical-healing-candy.html)/[GameJolt](https://gamejolt.com/games/a-tale-of-magical-healing-candy/22129) Published on February 4, 2014
 - [Haruta's Adventure: Doors of Trap Dungeon](http://squeka-dev.blogspot.com/2014/01/harutas-adventure-doors-of-trap-dungeon.html)/[Gamejolt](https://gamejolt.com/games/haruta-s-adventure-doors-of-trap-dungeon/21670) Published on January 26, 2014
 
-
+### [patorjk](https://github.com/patorjk)
+- [Subpixel Snake](https://patorjk.com/games/subpixel-snake/)/[Github](https://github.com/patorjk/subpixel-snake) a JavaScript Snake game that uses the subpixels on your monitor as the board for the game Snake; Published on January 17, 2025
 # Sources
 A list of sources I visited to obtain the content for this repo. It is not an exhaustive list.
 - [This old thread on Resetera](https://www.resetera.com/threads/unconventional-unique-gaming-creations.22155/)
