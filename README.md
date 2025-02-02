@@ -166,6 +166,10 @@ Various assorted games that can be played in non-typical formats. They will be s
 
 ### [patorjk](https://github.com/patorjk)
 - [Subpixel Snake](https://patorjk.com/games/subpixel-snake/)/[Github](https://github.com/patorjk/subpixel-snake) a JavaScript Snake game that uses the subpixels on your monitor as the board for the game Snake; Published on January 17, 2025
+
+### [itisnotjord](https://github.com/itisnotjord)
+- [2048inPDF - 2048](https://github.com/itisnotjord/2048inPDF) Published on January 19, 2025
+
 # Sources
 A list of sources I visited to obtain the content for this repo. It is not an exhaustive list.
 - [This old thread on Resetera](https://www.resetera.com/threads/unconventional-unique-gaming-creations.22155/)
