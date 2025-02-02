@@ -170,6 +170,9 @@ Various assorted games that can be played in non-typical formats. They will be s
 ### [itisnotjord](https://github.com/itisnotjord)
 - [2048inPDF - 2048](https://github.com/itisnotjord/2048inPDF) Published on January 19, 2025
 
+### [rwarnking](https://github.com/rwarnking)
+- [PDF games](https://github.com/rwarnking/pdf-games)  Collection of mini-games that run in a PDF using latex and javascript 
+
 # Sources
 A list of sources I visited to obtain the content for this repo. It is not an exhaustive list.
 - [This old thread on Resetera](https://www.resetera.com/threads/unconventional-unique-gaming-creations.22155/)
