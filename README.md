@@ -171,8 +171,16 @@ Various assorted games that can be played in non-typical formats. They will be s
 - [2048inPDF - 2048](https://github.com/itisnotjord/2048inPDF) Published on January 19, 2025
 
 ### [rwarnking](https://github.com/rwarnking)
-- [PDF games](https://github.com/rwarnking/pdf-games)  Collection of mini-games that run in a PDF using latex and javascript 
+- [PDF games](https://github.com/rwarnking/pdf-games)  Collection of mini-games that run in a PDF using latex and javascript. Published on April 28, 2021
 
+### [tEEvy](https://teevy.itch.io/)
+- [Pentis](https://teevy.itch.io/pentis) Tetris game with pentominos. Published on January 20, 2025
+
+### [StellarTopHat Studio](https://gx.games/studios/c6b14ea9-5640-423a-8007-ef5b554636dc/)
+- [MultiMino 2: Polyform](https://gx.games/games/umsuf1/multimino-2-polyform/) A block falling game that tries to extend the Tetris Guideline to multiple piece sets made out of different polygons. Published on September 28, 2024
+
+### Reddit user u/billdroman
+- [Combinos (Wiki article only](https://tetris.wiki/Combinos) a falling block game similar to Tetris but uses all possible polyominoes from monominoes to decominoes. Published on September 5, 2014
 # Sources
 A list of sources I visited to obtain the content for this repo. It is not an exhaustive list.
 - [This old thread on Resetera](https://www.resetera.com/threads/unconventional-unique-gaming-creations.22155/)
