@@ -213,6 +213,8 @@ Various assorted games that can be played in non-typical formats. They will be s
 ### [Jake Albaugh](https://css-tricks.com/author/jakealbaugh/)
 - [Graphical URL EQ](https://web.archive.org/web/20200121234958/https://twitter.com/jake_albaugh/status/1118611365508337665)/[Github code repost](https://gist.github.com/antoninadert/f7b3ec2d7c7572b33b662415ccaae849) URL-based graphic EQ. Published on April 17, 2019
 
+### [Demian Ferreiro](https://github.com/epidemian)
+- [URL Snake](https://demian.ferrei.ro/snake/)/[Github](https://github.com/epidemian/snake) Snake in the URL bar. Published on February 3, 2016
 
 # Sources
 A list of sources I visited to obtain the content for this repo. It is not an exhaustive list.
