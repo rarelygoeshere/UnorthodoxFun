@@ -207,6 +207,13 @@ Various assorted games that can be played in non-typical formats. They will be s
 ### [Andrew Healey](https://dev.to/healeycodes)
 - [Secret Sudoku]9https://healeycodes.github.io/secret-sudoku/)/[Blog](https://dev.to/healeycodes/i-ported-sudoku-to-your-url-bar-and-it-plays-like-a-dream-233d) Published on February 22, 2019
 
+### [Neal Agarwal](https://x.com/nealagarwal)
+- [URL Zombies](https://url-zombies.glitch.me)[Glitch](https://glitch.com/~url-zombies)/[Twitter](https://x.com/nealagarwal/status/1121827394187399168) Zombie survival game in the URL bar. Published on April 27, 2019
+
+### [Jake Albaugh](https://css-tricks.com/author/jakealbaugh/)
+- [Graphical URL EQ](https://web.archive.org/web/20200121234958/https://twitter.com/jake_albaugh/status/1118611365508337665)/[Github code repost](https://gist.github.com/antoninadert/f7b3ec2d7c7572b33b662415ccaae849) URL-based graphic EQ. Published on April 17, 2019
+
+
 # Sources
 A list of sources I visited to obtain the content for this repo. It is not an exhaustive list.
 - [This old thread on Resetera](https://www.resetera.com/threads/unconventional-unique-gaming-creations.22155/)
