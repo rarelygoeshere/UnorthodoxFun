@@ -204,6 +204,9 @@ Various assorted games that can be played in non-typical formats. They will be s
 - [Games and Graphics in Popup URL bars](https://matthewrayfield.com/articles/games-and-graphics-in-popup-url-bars/)/[Github](https://github.com/MatthewRayfield/url-bar-games) Published on June 14, 2019
 - [Animating URLs with Javascript and Emojis](https://matthewrayfield.com/articles/animating-urls-with-javascript-and-emojis/) Published on January 17, 2019
 
+### [Andrew Healey](https://dev.to/healeycodes)
+- [Secret Sudoku]9https://healeycodes.github.io/secret-sudoku/)/[Blog](https://dev.to/healeycodes/i-ported-sudoku-to-your-url-bar-and-it-plays-like-a-dream-233d) Published on February 22, 2019
+
 # Sources
 A list of sources I visited to obtain the content for this repo. It is not an exhaustive list.
 - [This old thread on Resetera](https://www.resetera.com/threads/unconventional-unique-gaming-creations.22155/)
