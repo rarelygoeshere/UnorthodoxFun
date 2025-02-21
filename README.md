@@ -67,6 +67,10 @@ Any and all instances of DOOM ports. DOOM merits its own section as there are nu
 
 ### [Nicholas Chin](https://github.com/nic3-14159)
 - [coreDOOM](https://github.com/nic3-14159/coreDOOM)/[Article](https://www.tomshardware.com/news/doom-port-released-as-bios-payload) Doom ported to a Coreboot BIOS; Published on August 5, 2019
+
+### [eieio.games](https://eieio.games/)
+- [DOOM in the iOS photos app](https://eieio.games/blog/doom-in-the-ios-photos-app/) DOOM in the iOS photos app. Published on September 23, 2024
+
 ## Everything else
 Various assorted games that can be played in non-typical formats. They will be sorted below a sub-heading denoting the creator's official name. If it is a game port, and the name of the original link isn't self-evident, then the name of the game will be added to the entry.
 ### [osnr](https://github.com/osnr)
@@ -179,8 +183,23 @@ Various assorted games that can be played in non-typical formats. They will be s
 ### [StellarTopHat Studio](https://gx.games/studios/c6b14ea9-5640-423a-8007-ef5b554636dc/)
 - [MultiMino 2: Polyform](https://gx.games/games/umsuf1/multimino-2-polyform/) A block falling game that tries to extend the Tetris Guideline to multiple piece sets made out of different polygons. Published on September 28, 2024
 
+### [eieio.games](https://eieio.games/)
+- [Running Pong in 240 Browser Tabs](https://eieio.games/blog/running-pong-in-240-browser-tabs/)/[Github](https://github.com/nolenroyalty/faviconic)/[Hacker News](https://news.ycombinator.com/item?id=43119086) Published on February 20, 2025
+- [PacCam](https://eieio.games/paccam/)/[Github](https://github.com/nolenroyalty/paccam) Pacman, but you control it with your face. Published on November 1, 2024
+- [BreakTime](https://chromewebstore.google.com/detail/breaktime/efajcgehdfpliglonbkjmifmibpphafk?hl=en&authuser=0)/[Blog](https://eieio.games/blog/breaktime/) Breakout (aka Brick Breaker) running inside Google Calendar. Published on March 12, 2024
+- [Flappy Dird](https://eieio.games/blog/flappy-bird-in-macos-finder/)/[Github](https://github.com/nolenroyalty/flappy-dird) Flappy Bird inside MacOS Finder. Published on October 17, 2023
+- [my google sheet adventure](https://docs.google.com/spreadsheets/d/1cY0YMKkQGrS_Xlsvv5e2-oZru9_nqORSRC2khOLMKkc/copy#gid=714573644)/[Blog](https://eieio.games/blog/realtime-google-sheet/) a game in a Google Sheet. Published on September 16, 2023
+- [Wardle](https://eieio.games/blog/wordle-in-the-firefox-address-bar/)/[Github](https://github.com/nolenroyalty/wardle) Wordle playable in the Firefox address bar using OpenSearch. Published on July 5, 2023
+
+### [Mewtru](https://mewtru.com/)
+- [FlappyFavi](https://mewtru.com/flappyfavi) A tiny Flappy Bird clone that can be played in your favicon. Published on February 13, 2025
+
+### [ericu](https://github.com/ericu)
+- [CellCulTuring](https://ericu.github.io/CellCulTuring/)/[Github](https://github.com/ericu/CellCulTuring)/[Hacker News](https://news.ycombinator.com/item?id=19155205) Pong as a cellular automaton. Published on November 7, 2018
+- 
 ### Reddit user u/billdroman
 - [Combinos (Wiki article only](https://tetris.wiki/Combinos) a falling block game similar to Tetris but uses all possible polyominoes from monominoes to decominoes. Published on September 5, 2014
+
 # Sources
 A list of sources I visited to obtain the content for this repo. It is not an exhaustive list.
 - [This old thread on Resetera](https://www.resetera.com/threads/unconventional-unique-gaming-creations.22155/)
