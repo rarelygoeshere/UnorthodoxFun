@@ -218,6 +218,7 @@ Various assorted games that can be played in non-typical formats. They will be s
 
 # Sources
 A list of sources I visited to obtain the content for this repo. It is not an exhaustive list.
+- [r/itrunsdoom](https://www.reddit.com/r/itrunsdoom/)
 - [CanItRunDoom.org](https://canitrundoom.org/)
 - [This old thread on Resetera](https://www.resetera.com/threads/unconventional-unique-gaming-creations.22155/)
 - [Shaarli](https://chezsoi.org/shaarli/)
