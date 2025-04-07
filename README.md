@@ -223,6 +223,8 @@ Various assorted games that can be played in non-typical formats. They will be s
 - [Absurdle](https://qntm.org/files/absurdle/absurdle.html) Dynamic, adversarial word-guessing game that adjusts its secret word in response to the player's guesses, aiming to prolong the game and make it more challenging. Published on January 9, 2022
 - [HATETRIS](https://qntm.org/files/hatetris/hatetris.html)/[Github](https://github.com/qntm/hatetris) Adversarial Tetris variant delivering the worst possible pieces. Published on April 2, 2010
 
+### [Emilie Breslavetz](https://playful-machines.com/)/[Twitter](https://x.com/Emili_Corne)
+- [Fireplay](https://playful-machines.com/projects/fireplay/)/[Youtube](https://www.youtube.com/watch?v=dZ4gp7l3-Vg)/[Twitter](https://x.com/Emili_Corne/status/1500124152631644160)/[Mirror](https://www.youtube.com/watch?v=iKDiFDV5TL8) A mini alternative controller that was made to play Little Inferno by Tomorrow Corporation with real fire thanks to a flame sensor, some matches and lycopodium powder. Published on March 5, 2022
 ### Sort this out
 https://blahg.res0l.net/2009/01/bastet-bastard-tetris/
 https://fph.altervista.org/prog/bastet.html
