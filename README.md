@@ -219,6 +219,14 @@ Various assorted games that can be played in non-typical formats. They will be s
 ### [Demian Ferreiro](https://github.com/epidemian)
 - [URL Snake](https://demian.ferrei.ro/snake/)/[Github](https://github.com/epidemian/snake) Snake in the URL bar. Published on February 3, 2016
 
+### [Sam Hughes/Qntm](https://qntm.org/)/[Twitter](https://x.com/qntm)/[Bluesky](https://bsky.app/profile/qntm.org)/[Github](https://github.com/qntm)/[Wikipedia](https://en.wikipedia.org/wiki/Qntm)
+- [Absurdle](https://qntm.org/files/absurdle/absurdle.html) Dynamic, adversarial word-guessing game that adjusts its secret word in response to the player's guesses, aiming to prolong the game and make it more challenging. Published on January 9, 2022
+- [HATETRIS](https://qntm.org/files/hatetris/hatetris.html)/[Github](https://github.com/qntm/hatetris) Adversarial Tetris variant delivering the worst possible pieces. Published on April 2, 2010
+
+### Sort this out
+https://blahg.res0l.net/2009/01/bastet-bastard-tetris/
+https://fph.altervista.org/prog/bastet.html
+
 # Sources
 A list of sources I visited to obtain the content for this repo. It is not an exhaustive list.
 - [r/itrunsdoom](https://www.reddit.com/r/itrunsdoom/)
