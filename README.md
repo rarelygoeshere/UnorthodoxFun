@@ -225,6 +225,10 @@ Various assorted games that can be played in non-typical formats. They will be s
 
 ### [Emilie Breslavetz](https://playful-machines.com/)/[Twitter](https://x.com/Emili_Corne)
 - [Fireplay](https://playful-machines.com/projects/fireplay/)/[Youtube](https://www.youtube.com/watch?v=dZ4gp7l3-Vg)/[Twitter](https://x.com/Emili_Corne/status/1500124152631644160)/[Mirror](https://www.youtube.com/watch?v=iKDiFDV5TL8) A mini alternative controller that was made to play Little Inferno by Tomorrow Corporation with real fire thanks to a flame sensor, some matches and lycopodium powder. Published on March 5, 2022
+
+### [Justin Paulson](https://justinpaulson.com/)/[Github](https://github.com/justinpaulson)
+- [Git Game Show](https://justinpaulson.github.io/git_game_show/)/[Github](https://github.com/justinpaulson/git_game_show)/[Hacker News post](https://news.ycombinator.com/item?id=43638361) Program that transforms your project's Git commit history into a live, multiplayer trivia game. Published on March 4, 2025
+
 ### Sort this out
 https://blahg.res0l.net/2009/01/bastet-bastard-tetris/
 https://fph.altervista.org/prog/bastet.html
