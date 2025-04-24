@@ -73,7 +73,9 @@ Any and all instances of DOOM ports. DOOM merits its own section as there are nu
 
 ### [Michigan TypeScript](https://www.youtube.com/@MichiganTypeScript)
 - [DOOM in TypeScript types](https://www.youtube.com/watch?v=0mCsluv5FXA)/[Github](https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime)/[Mirror](https://www.youtube.com/watch?v=eoLFXhR5h-g) Doom in TypeScript types. Published on February 26, 2025
- 
+
+### [UnmappedStack](https://github.com/UnmappedStack)
+- [TacOS](https://github.com/UnmappedStack/TacOS) TacOS is a UNIX-like kernel which is able to run DOOM, among various other smaller userspace programs. Published on December 6, 2024
 ## Everything else
 Various assorted games that can be played in non-typical formats. They will be sorted below a sub-heading denoting the creator's official name. If it is a game port, and the name of the original link isn't self-evident, then the name of the game will be added to the entry.
 ### [osnr](https://github.com/osnr)
