@@ -3,7 +3,7 @@ An encyclopedia of games in bizarre and unconventional mediums.
 # Eligible games for this repository
 Any instances of games, whether they're original games or otherwise, that are designed or created to be playable in unusual formats. E.g DOOM's various ports over the years. If there is no primary source for the game, secondary sources like YouTube videos will be used in their place.
 # Game categories
-## DOOM
+## *DOOM*
 Any and all instances of DOOM ports. DOOM merits its own section as there are numerous instances today and likely more to come.
 ### Guillermo Rauch
 - [Doom Captcha](https://doom-captcha.vercel.app/)/[Github](https://github.com/rauchg/doom-captcha) Published on January 1, 2025
@@ -76,7 +76,10 @@ Any and all instances of DOOM ports. DOOM merits its own section as there are nu
 
 ### [UnmappedStack](https://github.com/UnmappedStack)
 - [TacOS](https://github.com/UnmappedStack/TacOS) TacOS is a UNIX-like kernel which is able to run DOOM, among various other smaller userspace programs. Published on December 6, 2024
-## Everything else
+### [Michael Ayles](https://www.mikeayles.com/)/[Hacker News](https://news.ycombinator.com/user?id=mikeayles)
+- [KiDOOM](https://www.mikeayles.com/#kidoom) / [Hacker News](https://news.ycombinator.com/item?id=46051449) DOOM running on PCB Traces
+
+## *Everything else*
 Various assorted games that can be played in non-typical formats. They will be sorted below a sub-heading denoting the creator's official name. If it is a game port, and the name of the original link isn't self-evident, then the name of the game will be added to the entry.
 ### [osnr](https://github.com/osnr)
 - [horrifying-pdf-experiments - Breakout](https://cdn.jsdelivr.net/gh/osnr/horrifying-pdf-experiments@master/breakout.pdf)/[Github](https://github.com/osnr/horrifying-pdf-experiments) Published on June 27, 2016; Only works on Chromium-based browsers
