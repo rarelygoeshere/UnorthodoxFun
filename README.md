@@ -77,7 +77,8 @@ Any and all instances of DOOM ports. DOOM merits its own section as there are nu
 ### [UnmappedStack](https://github.com/UnmappedStack)
 - [TacOS](https://github.com/UnmappedStack/TacOS) TacOS is a UNIX-like kernel which is able to run DOOM, among various other smaller userspace programs. Published on December 6, 2024
 ### [Michael Ayles](https://www.mikeayles.com/)/[Hacker News](https://news.ycombinator.com/user?id=mikeayles)
-- [KiDOOM](https://www.mikeayles.com/#kidoom) / [Hacker News](https://news.ycombinator.com/item?id=46051449) DOOM running on PCB Traces
+- [KiDOOM](https://www.mikeayles.com/#kidoom) / [Github](https://github.com/MichaelAyles/KiDoom) [Hacker News](https://news.ycombinator.com/item?id=46051449) DOOM running on PCB Traces. Published on November 24, 2025
+- [ScopeDoom](https://www.mikeayles.com/#scopedoom) / [Github](https://github.com/MichaelAyles/ScopeDoom) DOOM on an Oscilloscope via Sound Card. Published on November 25, 2025
 
 ## *Everything else*
 Various assorted games that can be played in non-typical formats. They will be sorted below a sub-heading denoting the creator's official name. If it is a game port, and the name of the original link isn't self-evident, then the name of the game will be added to the entry.
