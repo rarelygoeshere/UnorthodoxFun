@@ -1,3 +1,4 @@
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 # UnorthodoxFun
 An encyclopedia of games in bizarre and unconventional mediums.
 # Eligible games for this repository
